@@ -88,8 +88,7 @@ li svg:hover{
   #root{
     width:90%;
     height: 90%;
-
-    
+    min-height: 100px;
   }
   .container{
     width: 100%;
